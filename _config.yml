@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            MPI Tutorial
 tagline:
-url:              renph.github.io/mpitutorial
-baseurl:          ''
+url:              renph.github.io
+baseurl:          'mpitutorial'
 author:
   name:           Wes Kendall
   url:            https://github.com/wesleykendall/
