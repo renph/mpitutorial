@@ -26,3 +26,5 @@ pages_list:
   Tutorials:    'tutorials'
   Recommended Books:    'recommended-books'
   About:                'about'
+
+theme: jekyll-theme-slate
